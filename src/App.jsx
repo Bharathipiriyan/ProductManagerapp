@@ -77,7 +77,7 @@ function App() {
 
   return (
 
-    <div className="h-screen bg-gray-950 text-white p-6">
+    <div className="min-h-[100dvh] bg-gray-950 text-white p-6">
 
       <div className="max-w-4xl mx-auto">
 
