@@ -2,7 +2,7 @@ import React from "react"
 import { useState, useEffect } from "react";
 import axios from "axios";
 
-const API = "https://product-managerapp.onrender.com";
+const API = "";
 
 function App() {
 
@@ -77,7 +77,7 @@ function App() {
 
   return (
 
-    <div className="min-h-screen bg-gray-950 text-white p-6">
+    <div className="h-screen bg-gray-950 text-white p-6">
 
       <div className="max-w-4xl mx-auto">
 
